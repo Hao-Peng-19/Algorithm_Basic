@@ -1,0 +1,17 @@
+# ninja log v5
+0	537	6903114630909408	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+539	697	6903114632476837	bipartite_graph.exe	b81c3a7363f0464d
+2	488	6903120232007179	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+488	615	6903120233263817	bipartite_graph.exe	b81c3a7363f0464d
+2	530	6903121681324850	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+531	653	6903121682527214	bipartite_graph.exe	b81c3a7363f0464d
+2	485	6903121835981961	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+485	607	6903121837169985	bipartite_graph.exe	b81c3a7363f0464d
+3	510	6903122001703158	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+510	652	6903122003102615	bipartite_graph.exe	b81c3a7363f0464d
+2	489	6903122192230851	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+490	618	6903122193507964	bipartite_graph.exe	b81c3a7363f0464d
+2	471	6905582268844404	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+471	599	6905582270111018	bipartite_graph.exe	b81c3a7363f0464d
+3	495	6905586390114522	CMakeFiles/bipartite_graph.dir/main.cpp.obj	e2bf86196a34de01
+496	625	6905586391381929	bipartite_graph.exe	b81c3a7363f0464d
